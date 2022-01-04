@@ -1,9 +1,5 @@
 ### 방가링👋
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=juhyeonkwon&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeonkwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juhyeonkwon)
-
-
 # 😎 site
 <a href="https://blog.naver.com/asshole96" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
@@ -27,3 +23,6 @@
 - 한국세라믹기술원 전산실 근로장학생 및 현장실습생 근무 (2020) 10개월
 - 국토안전관리원 정보보호팀 인턴 (2021.08 ~ 2021.10) 
 - 정보처리기사, 리눅스마스터 2급, 한능검, 워드, 약간의 영어실력(토익 815), 정보보안기사 필합 (올해 실기 딸거임)
+
+
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=juhyeonkwon&show_icons=true) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeonkwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juhyeonkwon)
