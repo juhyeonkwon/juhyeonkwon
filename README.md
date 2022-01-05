@@ -13,7 +13,7 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Vue.js
 " src="https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/> <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Spring boot" src="https://img.shields.io/badge/springboot-ffffff?&style=for-the-badge&logo=Spring Boot&logoColor=%#6DB33F"/> 
   
-# 🤷‍♀️ db
+# 🤷‍♀️ DB
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=ffffff"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=MariaDB Foundation&logoColor=w1F305F"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff"/> <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=ffffff"/>
 
 # 🤦‍♀️ ETC
