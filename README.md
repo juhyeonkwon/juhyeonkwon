@@ -11,8 +11,7 @@
   
   
  # 🤷‍♂️ framework
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Vue.js
-" src="https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/> 
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/> 
 ACTIX-WEB
   <!--
 <img alt="Spring boot" src="https://img.shields.io/badge/springboot-ffffff?&style=for-the-badge&logo=Spring Boot&logoColor=%#6DB33F"/> 
