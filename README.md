@@ -8,8 +8,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-<br /> RUST AND ACTIX-WEB
-  
+<br /> RUST
+
   
  # 🤷‍♂️ framework
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Vue.js
@@ -40,4 +40,3 @@ ACTIX-WEB
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=juhyeonkwon&show_icons=true) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeonkwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juhyeonkwon)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhyeonkwon%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
->>>>>>> parent of a2a9f23 (Update README.md)
