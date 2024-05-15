@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-날 죽여줘
-=======
+
 ### 방가링👋
 
 # 😎 site
@@ -10,7 +8,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-<br /> RUST
+<br /> RUST AND ACTIX-WEB
   
   
  # 🤷‍♂️ framework
@@ -34,8 +32,9 @@ ACTIX-WEB
 # 그외
 - 한국세라믹기술원 전산실 근로장학생 및 현장실습생 근무 (2020) 10개월
 - 국토안전관리원 정보보호팀 인턴 (2021.08 ~ 2021.10) 
-- 한국자산관리공사 IT직군 (2022.07 ~ ) 인데 민원 노예중
-- 정보처리기사, 리눅스마스터 2급, 한능검, 워드, 약간의 영어실력(토익 815), 정보보안기사 필합
+- 한국자산관리공사 IT직군 (2022.07 ~ ) 인데 민원 노예중 -> 탈출했으나  IT계약팀(2024.02~)
+- 정보처리기사, 리눅스마스터 2급, 한능검, 워드, 정보보안기사 필합
+- TOIEC 815(2021)
 
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=juhyeonkwon&show_icons=true) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeonkwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juhyeonkwon)
